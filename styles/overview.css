@@ -1,0 +1,8 @@
+.colored-line {
+	background-color: red;
+	margin: 0px;
+}
+div.border {
+	border-style: solid;
+	width: 25%;
+}
